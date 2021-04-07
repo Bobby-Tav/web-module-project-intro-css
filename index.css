@@ -39,7 +39,7 @@ blockquote, q {
   max-width:100%;
   border:2px red solid; 
 }
-
+/* My CSS*/
 html{
     font-size:62.5%;
 }
@@ -51,9 +51,9 @@ h1{
     font-size:5rem;
 }
 section{
-    padding 4% 0;
+    padding: 4% 0;
 }
-
+/* Header*/
 nav{
     padding:2% 0;    
 }
